@@ -4,7 +4,7 @@ autopep8==1.4.4
 boto3==1.9.143
 django-cors-headers==2.4.0
 django_environ==0.4.5
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework_simplejwt==3.3
 drf_yasg==1.15.0
 environ==1.0
