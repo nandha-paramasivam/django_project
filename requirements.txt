@@ -15,7 +15,7 @@ lxml==3.8.0
 matplotlib==2.0.2
 numpy==1.13.1
 pandas==0.22.0
-Pillow==4.3.0
+Pillow==9.0.1
 python-docx==0.8.6
 XlsxWriter==0.9.9
 openpyxl==2.4.9
