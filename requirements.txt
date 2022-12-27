@@ -19,7 +19,7 @@ Pillow==4.3.0
 python-docx==0.8.6
 XlsxWriter==0.9.9
 openpyxl==2.4.9
-setuptools==39.0.1
+setuptools==65.5.1
 numexpr==2.6.4
 fuzzywuzzy==0.16.0
 python-Levenshtein==0.12.0
